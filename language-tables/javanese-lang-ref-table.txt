@@ -1,4 +1,4 @@
-#Script/Language Identifier: id-jv
+#Script/Language Identifier: java
 #Script/Language Description: Javanese
 #Version: 1.0
 #Effective Date: 2017-03-24
