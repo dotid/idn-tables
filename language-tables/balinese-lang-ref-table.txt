@@ -1,4 +1,4 @@
-#Script/Language Identifier: id-ba
+#Script/Language Identifier: bali
 #Script/Language Description: Bali
 #Version: 1.0
 #Effective Date: 2017-03-24
