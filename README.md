@@ -10,7 +10,7 @@ The tables available match the most frequent languages and scripts that have bee
 The intended use of the repository is for IDN labels. Any use beyond that is not supported.
 
 ## Use of tables
-Anyone is free to use and modify the IDN tables available in this repository for their own purposes.
+Anyone is free to use the IDN tables available in this repository for their own purposes.
 
 ## List of tables
 - balinese-script-ref-table.txt
