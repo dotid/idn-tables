@@ -20,5 +20,7 @@ Anyone is free to use and modify the IDN tables available in this repository for
 
 ## Contibutor
 Name: Freddy Manullang
+
 Organisation: PANDI - .id Registry
+
 Website: https://pandi.id
