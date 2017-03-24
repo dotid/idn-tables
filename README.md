@@ -19,6 +19,6 @@ Anyone is free to use and modify the IDN tables available in this repository for
 - sundanese-lang-ref-table.txt
 
 ## Contibutor
-Freddy Manullang
-PANDI - .id Registry
-https://pandi.id
+- Freddy Manullang
+- PANDI - .id Registry
+- https://pandi.id
