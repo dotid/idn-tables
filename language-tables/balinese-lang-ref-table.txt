@@ -1,4 +1,4 @@
-#Script/Language Identifier: ba
+#Script/Language Identifier: bl
 #Script/Language Description: Balinese
 #Version: 1.0
 #Effective Date: 2017-03-24
