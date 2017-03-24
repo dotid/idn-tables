@@ -18,7 +18,7 @@ Anyone is free to use the IDN tables available in this repository for their own 
 - javanese-script-ref-table.txt
 - sundanese-script-ref-table.txt
 
-## Contibutor
+## Contributor
 Name: Freddy Manullang
 
 Organisation: PANDI - .id Registry
