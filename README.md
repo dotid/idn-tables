@@ -13,10 +13,10 @@ The intended use of the repository is for IDN labels. Any use beyond that is not
 Anyone is free to use and modify the IDN tables available in this repository for their own purposes.
 
 ## List of tables
-- balinese-lang-ref-table.txt
-- batak-lang-ref-table.txt
-- javanese-lang-ref-table.txt
-- sundanese-lang-ref-table.txt
+- balinese-script-ref-table.txt
+- batak-script-ref-table.txt
+- javanese-script-ref-table.txt
+- sundanese-script-ref-table.txt
 
 ## Contibutor
 Name: Freddy Manullang
