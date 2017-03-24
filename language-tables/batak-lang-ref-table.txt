@@ -1,4 +1,4 @@
-#Script/Language Identifier: id-su
+#Script/Language Identifier: batak
 #Script/Language Description: Batak
 #Version: 1.0
 #Effective Date: 2017-03-24
