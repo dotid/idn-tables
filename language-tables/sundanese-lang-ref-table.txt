@@ -1,4 +1,4 @@
-#Script/Language Identifier: id-jb
+#Script/Language Identifier: sunda
 #Script/Language Description: Sundanese
 #Version: 1.0
 #Effective Date: 2017-03-24
