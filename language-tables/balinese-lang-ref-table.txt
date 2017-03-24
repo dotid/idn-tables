@@ -1,5 +1,5 @@
 #Script/Language Identifier: bali
-#Script/Language Description: Bali
+#Script/Language Description: Balinese
 #Version: 1.0
 #Effective Date: 2017-03-24
 #Registry: PANDI
