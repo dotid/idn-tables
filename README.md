@@ -13,10 +13,10 @@ The intended use of the repository is for IDN labels. Any use beyond that is not
 Anyone is free to use the IDN tables available in this repository for their own purposes.
 
 ## List of tables
-- balinese-script-ref-table.txt
-- batak-script-ref-table.txt
-- javanese-script-ref-table.txt
-- sundanese-script-ref-table.txt
+- language-tables/balinese-lang-ref-table.txt
+- language-tables/batak-lang-ref-table.txt
+- language-tables/javanese-lang-ref-table.txt
+- language-tables/sundanese-lang-ref-table.txt
 
 ## ISO 639 Language Code
 - BALINESE / ISO 639-2: BAN / ISO 639-1: -
