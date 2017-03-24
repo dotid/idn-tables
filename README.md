@@ -18,6 +18,12 @@ Anyone is free to use the IDN tables available in this repository for their own 
 - javanese-script-ref-table.txt
 - sundanese-script-ref-table.txt
 
+## ISO 639 Language Code
+- BALINESE / ISO 639-2: BAN / ISO 639-1: -
+- BATAK / ISO 639-2: BTK / ISO 639-1: -
+- JAVANESE / ISO 639-2: JAV / ISO 639-1: JV
+- SUNDANESE / ISO 639-2: SUN / ISO 639-1: SU
+
 ## Contributor
 Name: Freddy Manullang
 

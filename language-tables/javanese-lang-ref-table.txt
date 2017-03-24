@@ -1,4 +1,4 @@
-#Script/Language Identifier: java
+#Script/Language Identifier: jv
 #Script/Language Description: Javanese
 #Version: 1.0
 #Effective Date: 2017-03-24
@@ -6,7 +6,7 @@
 #
 #This is the Bali IDN Table for the proposed TLD.
 #
-#IDN Character Table for ja: https://github.com/dotid/idn-tables/blob/master/script-tables/javanese-script-ref-table.txt
+#IDN Character Table for ja: https://github.com/dotid/idn-tables/blob/master/language-tables/javanese-lang-ref-table.txt
 #
 #References for contextual rules
 #
