@@ -4,7 +4,7 @@
 #Effective Date: 2017-03-24
 #Registry: PANDI
 #
-#This is the Bali IDN Table for the proposed TLD.
+#This is the Sundanese IDN Table for the proposed TLD.
 #
 #IDN Character Table for ja: https://github.com/dotid/idn-tables/blob/master/language-tables/sundanese-lang-ref-table.txt
 #

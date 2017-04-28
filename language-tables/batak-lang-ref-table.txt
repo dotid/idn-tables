@@ -1,10 +1,10 @@
-#Script/Language Identifier: bt
+#Script/Language Identifier: btk
 #Script/Language Description: Batak
 #Version: 1.0
 #Effective Date: 2017-03-24
 #Registry: PANDI
 #
-#This is the Bali IDN Table for the proposed TLD.
+#This is the Batak IDN Table for the proposed TLD.
 #
 #IDN Character Table for ja: https://github.com/dotid/idn-tables/blob/master/language-tables/batak-lang-ref-table.txt
 #
